@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web
 - 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on Web Projects
-- 📫 How to reach me Vaishnavij523@gmail.com
+- 📫 How to reach me vaishnavij523@gmail.com
 
 <!---
 Vaishnavi523/Vaishnavi523 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
